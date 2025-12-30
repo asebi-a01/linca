@@ -3,7 +3,7 @@ name: Deploy Quartz site to GitHub Pages
 on:
   push:
     branches:
-      - v4  # v4ブランチにプッシュされた時にデプロイ
+      - main  # mainブランチにプッシュされた時にデプロイ
   workflow_dispatch:  # 手動実行も可能
 
 permissions:
