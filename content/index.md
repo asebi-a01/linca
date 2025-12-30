@@ -1,6 +1,15 @@
 ---
-title: Welcome to Quartz
+title: HOME
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+# LINCA とは
+
+LINCA の説明です。
+
+# コンテンツ
+
+コンテンツの説明です。
+
+# 問い合わせ
+
+問い合わせの説明です。
